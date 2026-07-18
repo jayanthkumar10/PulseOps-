@@ -105,9 +105,4 @@ We welcome contributions from the community! Whether you want to add new LLM int
 ## 🛡️ License
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
 
-<div align="center">
-  <b>Keywords / Tags for SEO:</b><br>
-  <i>AIOps, Site Reliability Engineering, SRE, Incident Management, Alert Triage, Multi-Agent System, LLM, Local LLM, Ollama, RAG, Retrieval Augmented Generation, Python, FastAPI, Dashboard, Incident Orchestration, MTTR Optimization.</i>
-</div>
