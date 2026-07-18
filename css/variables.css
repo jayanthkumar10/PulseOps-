@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Orbitron:wght@600;700;800;900&display=swap');
+
+:root {
+  /* locked Matrix Emerald Green Theme */
+  --color-primary: #05ff9c;
+  --color-primary-rgb: 5, 255, 156;
+  --color-secondary: #082419;
+  --color-accent: #d946ef;
+  --color-accent-rgb: 217, 70, 239;
+  --border-color: #0d422a;
+  --border-color-active: #05ff9c;
+  --neon-glow: 0 0 8px rgba(5, 255, 156, 0.6), 0 0 15px rgba(5, 255, 156, 0.2);
+  --neon-glow-accent: 0 0 8px rgba(217, 70, 239, 0.6), 0 0 15px rgba(217, 70, 239, 0.2);
+
+  /* Shared HUD theme tokens */
+  --bg-canvas: #030a06;          /* Deep Forest Tech Black */
+  --bg-surface: #06140d;         /* Forest HUD container */
+  --bg-surface-hover: #0d281a;   /* Active Surface */
+  --text-primary: #f1f5f9;
+  --text-secondary: #a3b899;     /* Soft Greenish Slate */
+  --text-muted: #3d5a49;         /* Dark Forest Muted */
+  --font-family: 'JetBrains Mono', monospace;
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-hud: 'Orbitron', sans-serif;
+  --border-radius: 4px;
+  --border-radius-sm: 2px;
+  --glass-shadow: 0 4px 30px rgba(0, 0, 0, 0.9);
+  --glass-blur: blur(10px);
+  --transition-smooth: all 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
+  --crt-opacity: 0.05;
+  --header-height: 64px;
+  --sidebar-width: 240px;
+  --copilot-width: 380px;
+
+  /* Status Colors */
+  --color-success: #05ff9c;
+  --color-success-bg: rgba(5, 255, 156, 0.04);
+  --color-warning: #f59e0b;
+  --color-warning-bg: rgba(245, 158, 11, 0.04);
+  --color-danger: #ef4444;
+  --color-danger-bg: rgba(239, 68, 68, 0.04);
+  --color-info: #00f3ff;
+  --color-info-bg: rgba(0, 243, 255, 0.04);
+
+  /* Spacing System */
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-48: 48px;
+  --space-64: 64px;
+}
